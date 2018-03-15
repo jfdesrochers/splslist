@@ -54,3 +54,7 @@ Notez que dû à mon départ, ces outils vont sont laissés gratuitement, mais n
 **Consultez**: https://howsbiz.jfdft.com/  
 **Code Source**: https://github.com/jfdesrochers/howsbiz  
 
+### À conserver!
+
+Conservez ce courriel pour référence future, et sachez qu'en cas de changement, la version la plus à jour de cette liste est située ici : https://github.com/jfdesrochers/splslist/blob/master/readme.md
+
