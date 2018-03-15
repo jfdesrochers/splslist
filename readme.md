@@ -1,6 +1,6 @@
 # **La liste** des programmes créés pour vous.
 
-Voici la liste de tous les outils que j'ai partagé ave certains ou l'ensemble d'entre vous au fil des dernières années. Vous trouverez ci-dessous la description de chaque outil, une brève information sur l'usage de l'outil et des liens vers le téléchargement ou la consultation de l'outil. 
+Voici la liste de tous les outils que j'ai partagé avec certains ou l'ensemble d'entre vous au fil des dernières années. Vous trouverez ci-dessous la description de chaque outil, une brève information sur l'usage de l'outil et des liens vers le téléchargement ou la consultation de l'outil. 
 
 ### Notez-bien
 
