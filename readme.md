@@ -38,7 +38,7 @@ Notez que dû à mon départ, ces outils vont sont laissés gratuitement, mais n
 
 ## 6. Infini
 **Description**: Cette extension de Google Chrome ajoute une barre d'outil au site de Bureau en Gros (français et anglais) et au site des produits promotionnels (en anglais seulement). Avec cette barre, vous pouvez ajouter des items des sites susmentionnés pour vous créer un circulaire maison! Parfait pour promouvoir une catégorie de produits ou pour embellir une grosse soumission!  
-**Usage**: Installez l'extension en visitant le lien ci-dessous. Ensuite, consultez une page de produits sur les sites de Bureau en Gros et cliquez sur `Ajouter`. Une fois tous les produits ajoutés, ouvrez la barre latérale en appuyant sur la flèche et remplissez les champs de titre et sous-titre à votre goût avant de générer votre circulaire.  
+**Usage**: (Vous pouvez télécharger la documentation complète ici : https://github.com/jfdesrochers/infini-chrome-extension/releases/latest) Installez l'extension en visitant le lien ci-dessous. Ensuite, consultez une page de produits sur les sites de Bureau en Gros et cliquez sur `Ajouter`. Une fois tous les produits ajoutés, ouvrez la barre latérale en appuyant sur la flèche et remplissez les champs de titre et sous-titre à votre goût avant de générer votre circulaire.  
 **Installez**: https://chrome.google.com/webstore/detail/infini/mhmjdfjabfblgmdfemcdmofcpgenfhje  
 **Code Source**: https://github.com/jfdesrochers/infini-chrome-extension  
 
